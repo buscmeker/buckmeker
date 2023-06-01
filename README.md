@@ -9,3 +9,6 @@ I work remotely and like travel a lot.
 ### Languages and tools I work with:
 
 <code><img src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies.png" height="30px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/726/609/png-clipart-logo-css3-cascading-style-sheets-html-tonic-miscellaneous-angle.png" height="30px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies.png" height="30px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/837/140/png-clipart-html-5-logo-html5-grey-black-icons-logos-emojis-tech-companies.png" height="30px"></code>
