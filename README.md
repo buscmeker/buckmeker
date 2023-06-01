@@ -2,4 +2,4 @@
 
 I make videos on YouTube about software development. <br />
 I work remotely and like travel a lot.
-<img src="https://www.clipartmax.com/png/middle/134-1347559_non-copyright-youtube-logo.png" width="25px">
+<img src="[https://www.clipartmax.com/png/middle/134-1347559_non-copyright-youtube-logo.png](http://clipart-library.com/images_k/youtube-logo-png-transparent/youtube-logo-png-transparent-4.jpg)" width="25px">
