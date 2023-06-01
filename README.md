@@ -1,1 +1,1 @@
-# buckmeker
+### Hi, I'm Sirojiddin Khamidov <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47dd683oay3dp6by28mke9mot0fy1d8jcc1z2m1s2m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px">
